@@ -104,7 +104,7 @@
     background-color: black;
     height: 50vh;
     position: absolute;
-    top: 60pxpx;
+    top: 60px;
     left: -400px;
    
 }
@@ -112,6 +112,7 @@
     color: white;
     padding: 10px;
 }
+
 
 @media(max-width:426px){
     .topnav{
